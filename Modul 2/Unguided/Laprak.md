@@ -107,7 +107,7 @@ Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktika
 ## Kesimpulan
 Menggunakan alat bantu array 2 dimensi (baris)(kolom), sebagai pondasi menyimpan nilai matriks.
 
-### 1. [Soal]
+### 2. [Soal]
 #include <iostream>
 using namespace std;
 
