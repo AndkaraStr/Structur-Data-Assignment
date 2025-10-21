@@ -42,11 +42,11 @@ Menggunakan pointer dan references untuk menukar nilai yang sudah terdeklarasi.
 ### 3. [Soal]
 
 <img width="1450" height="1698" alt="soal3maincpp" src="https://github.com/user-attachments/assets/81744387-c084-4e60-b59b-d95391ad9ad0" />
-
+<img width="1342" height="1698" alt="code" src="https://github.com/user-attachments/assets/1d6e9fe9-f667-45aa-8801-a850c8dfd032" />
 <img width="1326" height="1204" alt="arrayh3" src="https://github.com/user-attachments/assets/12e9c04a-6e6c-4d2e-88cb-f603c89c5406" />
 
 #### Output:
-<img width="1492" height="958" alt="Screenshot 2025-10-08 224600" src="https://github.com/user-attachments/assets/4ec6ccf5-3afa-4bf5-a5f9-bc7b9efb4e3e" />
+<img width="1451" height="831" alt="Screenshot 2025-10-16 224008" src="https://github.com/user-attachments/assets/f6eb8f93-9288-4e6c-b532-68f4f1025f41" />
 
 Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
 
