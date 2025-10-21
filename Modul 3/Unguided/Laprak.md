@@ -42,7 +42,7 @@ Menggunakan pointer dan references untuk menukar nilai yang sudah terdeklarasi.
 ### 3. [Soal]
 
 <img width="1450" height="1698" alt="soal3maincpp" src="https://github.com/user-attachments/assets/81744387-c084-4e60-b59b-d95391ad9ad0" />
-<img width="995" height="812" alt="Screenshot 2025-10-21 195456" src="https://github.com/user-attachments/assets/5ad475aa-a909-4fdc-9ede-8b33b0a32eb6" />
+
 <img width="1326" height="1204" alt="arrayh3" src="https://github.com/user-attachments/assets/12e9c04a-6e6c-4d2e-88cb-f603c89c5406" />
 
 #### Output:
