@@ -8,15 +8,13 @@ Menggunakan dasar function, referance, pointer, array untuk membuat kode ini
 ## Unguided 
 
 ### 1. [Soal]
-File SLLSearch.cpp
+#File SLLSearch.cpp
 <img width="1756" height="3332" alt="cpp" src="https://github.com/user-attachments/assets/2df928d0-f954-44c3-b188-3e7499908c37" />
 
-
-File SLLSearch.h
+#File SLLSearch.h
 <img width="880" height="1280" alt="h" src="https://github.com/user-attachments/assets/6ccbe0fd-0a0b-48b9-9c86-4a0474d950ab" />
 
-
-File main.cpp
+#File main.cpp
 <img width="988" height="1470" alt="main" src="https://github.com/user-attachments/assets/f6883b50-3cd9-4f5e-bef4-af4fa99ca36f" />
 
 
@@ -30,18 +28,15 @@ Menunjukan Node dan isi
 
 
 ### 2. [Soal]
-Fungsi FinbyElm di SLLSearch.cpp
+#Fungsi FinbyElm di SLLSearch.cpp
 <img width="1756" height="1356" alt="cpp" src="https://github.com/user-attachments/assets/d1839207-ae7c-4394-817a-f12ddf85576d" />
 
-
-Fungsi FinbyElm di main.cpp
+#Fungsi FinbyElm di main.cpp
 <img width="972" height="558" alt="main" src="https://github.com/user-attachments/assets/ac6dc7ed-2909-4ca9-83be-534384587e07" />
 
-
-Untuk gambar File di .h ada di Soal no.1
+#Untuk gambar File di .h ada di Soal no.1
 #### Output:
 <img width="468" height="126" alt="Screenshot 2025-10-30 111804" src="https://github.com/user-attachments/assets/4c3d77ec-5bb0-4b86-9052-1c864998c437" />
-
 
 Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
 
@@ -49,11 +44,10 @@ Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktika
 Menggunakan metode FindbyNode di guide listbuah 
 
 ### 3. [Soal]
-Fungsi totalinfo di SLLSearch.cpp
+#Fungsi totalinfo di SLLSearch.cpp
 <img width="1310" height="748" alt="cpp" src="https://github.com/user-attachments/assets/50a4493e-85b1-4f2f-bb87-2550f457955d" />
 
-
-Untuk gambar File di .h dan main.cpp ada di Soal no.1
+#Untuk gambar File di .h dan main.cpp ada di Soal no.1
 
 
 #### Output:
