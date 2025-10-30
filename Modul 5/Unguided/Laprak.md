@@ -8,13 +8,13 @@ Menggunakan dasar function, referance, pointer, array untuk membuat kode ini
 ## Unguided 
 
 ### 1. [Soal]
-#File SLLSearch.cpp
+# File SLLSearch.cpp
 <img width="1756" height="3332" alt="cpp" src="https://github.com/user-attachments/assets/2df928d0-f954-44c3-b188-3e7499908c37" />
 
-#File SLLSearch.h
+# File SLLSearch.h
 <img width="880" height="1280" alt="h" src="https://github.com/user-attachments/assets/6ccbe0fd-0a0b-48b9-9c86-4a0474d950ab" />
 
-#File main.cpp
+# File main.cpp
 <img width="988" height="1470" alt="main" src="https://github.com/user-attachments/assets/f6883b50-3cd9-4f5e-bef4-af4fa99ca36f" />
 
 
