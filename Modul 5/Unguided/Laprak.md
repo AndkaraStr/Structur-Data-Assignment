@@ -28,10 +28,10 @@ Menunjukan Node dan isi
 
 
 ### 2. [Soal]
-#Fungsi FinbyElm di SLLSearch.cpp
+# Fungsi FinbyElm di SLLSearch.cpp
 <img width="1756" height="1356" alt="cpp" src="https://github.com/user-attachments/assets/d1839207-ae7c-4394-817a-f12ddf85576d" />
 
-#Fungsi FinbyElm di main.cpp
+# Fungsi FinbyElm di main.cpp
 <img width="972" height="558" alt="main" src="https://github.com/user-attachments/assets/ac6dc7ed-2909-4ca9-83be-534384587e07" />
 
 #Untuk gambar File di .h ada di Soal no.1
@@ -44,7 +44,7 @@ Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktika
 Menggunakan metode FindbyNode di guide listbuah 
 
 ### 3. [Soal]
-#Fungsi totalinfo di SLLSearch.cpp
+# Fungsi totalinfo di SLLSearch.cpp
 <img width="1310" height="748" alt="cpp" src="https://github.com/user-attachments/assets/50a4493e-85b1-4f2f-bb87-2550f457955d" />
 
 #Untuk gambar File di .h dan main.cpp ada di Soal no.1
