@@ -6,10 +6,6 @@ int main(){
     cout << "Hello world!" << endl;
 
     Stack S;
-
-    // =======================================
-    // 1. NOMOR 1 – operasi stack dasar
-    // =======================================
     createStack(S);
     push(S, '3');
     push(S, '4');
@@ -26,10 +22,6 @@ int main(){
     balikStack(S);
     printInfo(S);
 
-
-    // =======================================
-    // 2. NOMOR 2 – pushAscending
-    // =======================================
     createStack(S);
     pushAscending(S, '3');
     pushAscending(S, '4');
@@ -44,10 +36,6 @@ int main(){
     balikStack(S);
     printInfo(S);
 
-
-    // =======================================
-    // 3. NOMOR 3 – getInputStream
-    // =======================================
     createStack(S);
     cout << "\nMasukkan input karakter (akhiri dengan ENTER): ";
     getInputStream(S);
@@ -60,3 +48,4 @@ int main(){
 
     return 0;
 }
+
