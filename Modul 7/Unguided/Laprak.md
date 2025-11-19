@@ -1,4 +1,4 @@
-<img width="940" height="1052" alt="h" src="https://github.com/user-attachments/assets/6e83a1d9-efb7-4451-a105-57c62a53fdba" /># <h1 align="center">Laporan Praktikum Modul Pengenalan Bahasa C++ (2)</h1>
+# <h1 align="center">Laporan Praktikum Modul Pengenalan Bahasa C++ (2)</h1>
 <p align="center">Andika Arya Saputra</p>
 
 ## Dasar Teori
