@@ -19,7 +19,7 @@ infotype pop(Stack &S){
         S.top--;
         return x;
     }
-    return '\0';   // stack kosong
+    return '\0';   
 }
 
 void printInfo(Stack S){
@@ -63,3 +63,4 @@ void getInputStream(Stack &S){
         push(S, c);
     }
 }
+
