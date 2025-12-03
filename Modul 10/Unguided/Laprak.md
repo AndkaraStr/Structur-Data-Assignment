@@ -19,7 +19,7 @@ Menggunakan dasar function, referance, pointer, array untuk membuat kode ini
 
 
 #### Output:
-Soal 1 - 3
+### Soal 1 - 3
 <img width="852" height="247" alt="Screenshot 2025-12-03 224233" src="https://github.com/user-attachments/assets/52e455bf-9b75-445f-a531-f4952c335d8e" />
 
 Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
