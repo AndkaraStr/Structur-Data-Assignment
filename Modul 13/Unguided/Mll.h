@@ -15,7 +15,6 @@ typedef int infotypeanak;
 typedef struct elemen_list_induk *address;
 typedef struct elemen_list_anak *address_anak;
 
-/* ===== STRUCT ===== */
 
 struct elemen_list_anak {
     infotypeanak info;
@@ -40,7 +39,6 @@ struct listinduk {
     address last;
 };
 
-/* ===== PROTOTYPE ===== */
 
 void CreateList(listinduk &L);
 void CreateListAnak(listanak &L);
@@ -57,5 +55,6 @@ void insertLast(listinduk &L, address P);
 void insertLastAnak(listanak &L, address_anak P);
 
 void printInfo(listinduk L);
+
 
 #endif
