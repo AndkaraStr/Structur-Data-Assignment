@@ -1,6 +1,5 @@
 #include "Mll.h"
 
-/* ===== CREATE ===== */
 
 void CreateList(listinduk &L) {
     L.first = Nil;
@@ -12,7 +11,6 @@ void CreateListAnak(listanak &L) {
     L.last = Nil;
 }
 
-/* ===== EMPTY ===== */
 
 boolean ListEmpty(listinduk L) {
     return (L.first == Nil);
@@ -22,7 +20,6 @@ boolean ListEmptyAnak(listanak L) {
     return (L.first == Nil);
 }
 
-/* ===== ALOKASI ===== */
 
 address alokasi(infotypeinduk x) {
     address P = new elemen_list_induk;
@@ -41,7 +38,6 @@ address_anak alokasiAnak(infotypeanak x) {
     return P;
 }
 
-/* ===== INSERT INDUK ===== */
 
 void insertFirst(listinduk &L, address P) {
     if (ListEmpty(L)) {
@@ -64,7 +60,6 @@ void insertLast(listinduk &L, address P) {
     }
 }
 
-/* ===== INSERT ANAK ===== */
 
 void insertLastAnak(listanak &L, address_anak P) {
     if (ListEmptyAnak(L)) {
@@ -77,7 +72,6 @@ void insertLastAnak(listanak &L, address_anak P) {
     }
 }
 
-/* ===== PRINT ===== */
 
 void printInfo(listinduk L) {
     address P = L.first;
@@ -91,3 +85,4 @@ void printInfo(listinduk L) {
         P = P->next;
     }
 }
+
